@@ -14,5 +14,11 @@ Welcome to my homepage!
 
 <a href="https://www.linkedin.com/in/dylan-ho-a87018388/">Visit my Linkedin</a>
 
+<h3>Photo</h3>
+<p>See below:</p>
+
+<img src="img_girl.jpg" width="500" height="600">
+
+
 </body>
 </html>

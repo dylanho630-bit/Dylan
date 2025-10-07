@@ -17,7 +17,9 @@ Welcome to my homepage!
 <h3>Photo</h3>
 <p>See below:</p>
 
-<img src="img_girl.jpg" width="500" height="600">
+<img src="w3schools.png" 
+alt
+="w3schools Logo">
 
 
 </body>

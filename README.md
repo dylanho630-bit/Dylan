@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<Introduction>Welcome</My Profile>
+<Introduction>Welcome to my homepage</My Profile>
 </head>
 <body>
 
